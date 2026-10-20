@@ -1,0 +1,213 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0
+  ;
+}
+body{
+  font-family: helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+.ancho{
+  max-width: 1200px;
+  margin: auto;
+  /* border: 1px red  solid; */
+}
+.margen{
+  padding: 15px;
+}
+.centrar{
+  text-align: center;
+}
+.foto_cabecera{
+  width: 12%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.foto_cabecera img{
+  width: 100%;
+}
+.menu_cabecera{
+  width: 45%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.menu_cabecera a{
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  font-weight: bold7;
+}
+.contenedor_descargar{
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+   text-align: right;
+}
+.contenedor_descargar a{
+  color: purple;
+  border: 2px purple solid;
+  border-radius: 15px;
+  text-decoration: none;
+  padding: 10px 30px;
+  text-align: right;
+}
+.contenedor_img_fire{
+  display: block;
+  width: 200px;
+}
+.contenedor_img_fire img{
+  width: 100%;
+}
+.contenedor_info_firefox{
+  width: 58%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.contenedor_info_firefox h2{
+  font-size: 36px;
+  padding: 15px 15px;
+}
+.btn_descargar{
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  border-radius: 15px;
+  padding: 10px 20px;
+}
+.avisoprivacidad{
+  text-decoration: none;
+  font-size: 10px;
+  color: gray;
+  margin-left: 15px;
+}
+.contenedor_img_computadora{
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+.contenedor_img_computadora img{
+  width: 100%;
+}
+.contenedor_central{
+  background-color: #ececec;
+}
+.contenedor_img_dinosaurio{
+  width: 49%;
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+}
+.contenedor_img_dinosaurio img{
+  width: 50%;
+}
+.contenedor_info_central{
+  display: inline-block;
+  width: 49%;
+  padding-right: 27%;
+  text-align: center;
+}
+.contenedor_info_central h1{
+  line-height: 38px;
+  padding-bottom: 10px;
+}
+.contenedor_nuestro_impacto{
+  width: 49%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 30px;
+  border-right: 2px rgba(160, 157, 157, 0.306) solid;
+  
+}
+.contendor_nuestras_innovaciones{
+  width: 49%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 30px;
+  
+}
+.contenedor_info{
+  padding: 20px;
+}
+.contenedor_nuestro_impacto a{
+  color: blue;
+}
+.contendor_nuestras_innovaciones a{
+  color: blue;
+}
+.contenedor_more_info{
+  padding: 10px;
+}
+.extensiones{
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.empleos{
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.necesitasayuda{
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.subtitulo1{
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 28px;
+}
+.contenedor_img_form{
+  width: 49%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.contenedor_img_form img{
+  width: 50%;
+}
+.contenedor_formulario{
+  width: 49%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}
+.contenedor_final{
+  background-color: black;
+  padding: 20px;
+}
+.img_moz img{
+  width: 15%;
+  text-align: center;
+  padding: 20px;
+}
+.subtitulo2{
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+}
+.elemento{
+  width: 400px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px gray solid;
+  margin-bottom: 20px;
+}
+.bton_enviar{
+  width: 400px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.contenedor_formulario h6{
+  padding-left: 60px;
+}
+.negritas{
+  font-weight: bold;
+}
